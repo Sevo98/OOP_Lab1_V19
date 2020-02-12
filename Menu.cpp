@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Menu.h"
 #include "Equation.h"
+#include "Composition.h"
 
 using namespace std;
 
@@ -25,7 +26,7 @@ void menu()
 			
 			case 2:
 			{
-
+				Composition();
 			}
 		} 
 	}
