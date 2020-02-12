@@ -2,6 +2,7 @@
 #include "Menu.h"
 #include "Equation.h"
 #include "Composition.h"
+#include "Work_with_file.h"
 
 using namespace std;
 
@@ -27,6 +28,12 @@ void menu()
 			case 2:
 			{
 				Composition();
+			}
+			break;
+
+			case 3:
+			{
+				WorkWithFile();
 			}
 		} 
 	}

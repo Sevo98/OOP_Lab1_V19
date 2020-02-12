@@ -1,4 +1,4 @@
-﻿  Composition.cpp
-C:\Users\sevo9\source\repos\OOP_Lab1_V19\OOP_Lab1_V19\Composition.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\sevo9\source\repos\OOP_Lab1_V19\OOP_Lab1_V19\Composition.cpp(22,23): warning C4018: <: несоответствие типов со знаком и без знака
+﻿  Work_with_file.cpp
+  Menu.cpp
+  Создание кода...
   OOP_Lab1_V19.vcxproj -> C:\Users\sevo9\source\repos\OOP_Lab1_V19\Debug\OOP_Lab1_V19.exe
