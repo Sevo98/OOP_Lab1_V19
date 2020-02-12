@@ -22,10 +22,10 @@ void menu()
 				Equation();
 			}
 			break;
-
-			case 0:
+			
+			case 2:
 			{
-				system("exit");
+
 			}
 		} 
 	}
